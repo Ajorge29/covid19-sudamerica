@@ -42,3 +42,6 @@ Este proyecto demuestra habilidades en:
 - Visualización clara con matplotlib
 - Comunicación de resultados
 - Limpieza y transformación de datos reales
+
+
+** Si es de tu agrado éste proyecto, regálame una estrella! :)
